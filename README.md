@@ -24,3 +24,7 @@ Refer to LICENSE
 - https://webpack.js.org/concepts/
 - https://expressjs.com/en/starter/basic-routing.html
 - UT Austin Coding Bootcamp curriculum
+
+## Screenshot
+
+![Alt text](image.png)
